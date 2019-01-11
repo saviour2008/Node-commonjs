@@ -1,3 +1,4 @@
+common.js和CMD很相似
 NPM的模块加载机制：
 
       如果require的是绝对路径文件，查找不会去遍历每个node_modules目录，其速度最快
